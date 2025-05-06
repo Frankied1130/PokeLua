@@ -3,7 +3,7 @@ local targetHour = 0  -- Write here the target hours
 local targetMinute = 9  -- Write here the target minutes
 local targetSecond = 24  -- Write here the target seconds
 local targetSixtiethSecond = 22  -- Write here the target sixtieth seconds
-local savePath = "D:\\Desktop\\mGBA\\battery\\Pokemon - Ruby Version (USA, Europe) (Rev 2).sav"  -- Write here the path of your Ruby/Sapphire save file
+local savePath = "C:\\Program Files\\mGBA\\ROMS\\GBA\\Pokemon - Ruby Version (USA, Europe) (Rev 2).sav"  -- Write here the path of your Ruby/Sapphire save file
 
 local charMap = {
  " ", "À", "Á", "Â", "Ç", "È", "É", "Ê", "Ë", "Ì", "こ", "Î", "Ï", "Ò", "Ó", "Ô",
